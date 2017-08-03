@@ -10,11 +10,11 @@ public class WinWindow implements Window {
 
     @Override
     public void setBorderColor(String borderColor) {
-        System.out.println("new \'Win\' window border color - " + borderColor);
+        System.out.println("set \'Win\' window border color - " + borderColor);
     }
 
     @Override
     public void setBackgroundColor(String backgroundColor) {
-        System.out.println("new \'Win\' window background color - " + backgroundColor);
+        System.out.println("set \'Win\' window background color - " + backgroundColor);
     }
 }

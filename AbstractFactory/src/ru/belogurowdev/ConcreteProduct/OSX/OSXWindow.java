@@ -10,11 +10,11 @@ public class OSXWindow implements Window {
 
     @Override
     public void setBorderColor(String borderColor) {
-        System.out.println("new \'OSX\' window border color - " + borderColor);
+        System.out.println("set \'OSX\' window border color - " + borderColor);
     }
 
     @Override
     public void setBackgroundColor(String backgroundColor) {
-        System.out.println("new \'OSX\' window background color - " + backgroundColor);
+        System.out.println("set \'OSX\' window background color - " + backgroundColor);
     }
 }

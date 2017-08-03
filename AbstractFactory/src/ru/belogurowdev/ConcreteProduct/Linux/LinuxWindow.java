@@ -10,12 +10,12 @@ public class LinuxWindow implements Window {
 
     @Override
     public void setBorderColor(String borderColor) {
-        System.out.println("new \'Linux\' window border color - " + borderColor);
+        System.out.println("set \'Linux\' window border color - " + borderColor);
     }
 
     @Override
     public void setBackgroundColor(String backgroundColor) {
-        System.out.println("new \'Linux\' window background color - " + backgroundColor);
+        System.out.println("set \'Linux\' window background color - " + backgroundColor);
     }
 
 }

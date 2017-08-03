@@ -42,13 +42,14 @@ public class Main {
 
         /**
          * EXAMPLE
+         *
          * What are your system? Win, OSX or Linux?
          * - OSX
          * create 'OSX' Button
          * clicked on 'OSX' Button
          * create 'OSX' Window
-         * new 'OSX' window border color - black
-         * new 'OSX' window background color - yellow
+         * set 'OSX' window border color - black
+         * set 'OSX' window background color - yellow
          * OSX.
          */
     }
