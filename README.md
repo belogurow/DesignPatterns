@@ -6,9 +6,9 @@ Patterns will be added according to the list:
 1. Creational patterns
 	1. [x]  Abstract Factory
 	2. [x]	Builder
-	3. [ ]	Factory Method
-	4. [ ] 	Prototype
-	5. [ ]	Singleton
+	3. [x]	Factory Method
+	4. [x] 	Prototype
+	5. [x]	Singleton
 2. Structural patterns
 	1. [ ]	Adapter
 	2. [ ]	Bridge
